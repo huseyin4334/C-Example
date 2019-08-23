@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555627552 source:c:\users\huseyin\documents\codeblocks\stringislemleri\main.c
+	<stdio.h>
+	<stdlib.h>
+

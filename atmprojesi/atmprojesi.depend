@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554476095 source:c:\users\huseyin\documents\codeblocks\atmprojesi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

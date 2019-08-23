@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1526293164 source:c:\users\mehmet\desktop\c dersleri\c dersleri 56(struct örnek)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

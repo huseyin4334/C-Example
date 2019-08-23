@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1559139373 source:c:\users\huseyin\documents\codeblocks\hakanodev\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

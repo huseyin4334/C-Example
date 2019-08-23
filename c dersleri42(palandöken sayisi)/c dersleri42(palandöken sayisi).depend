@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512923504 source:c:\users\mehmet\desktop\c dersleri\c dersleri42(palandöken sayisi)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

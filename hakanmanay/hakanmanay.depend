@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554663351 source:c:\users\huseyin\documents\codeblocks\hakanmanay\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

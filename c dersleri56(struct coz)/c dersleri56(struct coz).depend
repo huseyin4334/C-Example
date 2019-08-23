@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1525291938 source:c:\users\mehmet\desktop\c dersleri\c dersleri56(struct coz)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

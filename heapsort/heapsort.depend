@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545594529 source:c:\users\huseyin\documents\codeblocks\heapsort\main.c
+	<stdio.h>
+	<stdlib.h>
+
